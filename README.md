@@ -13,5 +13,17 @@ Learning and building projects
 - Build useful projects  
 - Help others learn
 
+## Skills
+-DBMS
+-python
+-html
+-javascript
+-java
+-problem solving
+-decision making
+-basic communication skill
+-leadership skill
+
+
 ## Contact
 - GitHub: https://github.com/nijasulthna-jpg# nijasulthana-jpg
